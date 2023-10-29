@@ -11,6 +11,7 @@ namespace Tyuiu.ShtolAA.Sprint3.Task5.V21.Test
         public void ValidGetSumSumSeries()
         {
             DataService ds = new DataService();
+
             int x = 2;
             int startValue1 = 1;
             int stopValue1 = 3;
